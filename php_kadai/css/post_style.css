@@ -1,0 +1,39 @@
+/* post */
+/* form_area */
+  #star{
+    display: block;
+    float: none;
+
+  }
+
+h1{
+    text-align: center;
+}
+
+form {
+    width: 50%;
+    margin: 10% auto;
+    min-width: 9rem;
+  }
+    
+  input[type="text"],input[type="submit"], textarea {
+    float: left;
+    width: 100%;
+    max-width: 100%;
+    border: 1;
+    margin: 0.5rem 0;
+    padding: 0.5rem 1rem;
+    border-radius: 0.3rem;
+    background: darken(#cfcccc, 10%);
+    color: darken(#f9f9f9, 50%);
+    
+  }
+
+  textarea {
+    height: 10rem;
+  }
+
+  .gazo{
+      margin-top: 10px;
+  }
+
